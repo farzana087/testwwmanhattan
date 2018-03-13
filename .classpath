@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/selenium/selenium-server-standalone-3.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-java-2.35.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jsoup-1.8.3.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
